@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nethma Dasanayaka</h1>
-<h3 align="left">I'm Nethma Dasanayaka a Full Stack Web Developer from Sri Lanka. I believe that a software engineer should first of all love his tasks and be creative on them with utmost involvement to complete the work within time intervals. Feel free to go through my repositories, The best ones are private though 😉</h3>
+<h3 align="left">I'm Nethma Dasanayaka a Full Stack Web Developer from Sri Lanka. I believe that a software engineer should first of all love his tasks and be creative on them with utmost involvement to complete the work within time intervals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmadasanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="nethmadasanayaka" /> </p>
 
